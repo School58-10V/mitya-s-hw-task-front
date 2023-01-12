@@ -122,7 +122,7 @@
 
 <script>
 import axios from 'axios';
-import Alert from './Alert-component.vue';
+import Alert from './AlertComponent.vue';
 export default {
   data() {
     return {
